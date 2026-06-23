@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on web development<br>I'm interested in learning and improving my web development skills<br>I'm currently learning python<br>I'm looking to collaborate on any web development projects
+I'm currently working on web development<br>I'm interested in learning and improving my web development skills<br>I'm currently learning javascript<br>I'm looking to collaborate on any web development projects
 
 
 ## 🌐 Socials:
